@@ -1,4 +1,4 @@
-### System Requirements and Analysis {#system-requirements-and-analysis}
+### System Requirements and Analysis
 
 #### Lectures
 

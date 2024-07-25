@@ -1,4 +1,4 @@
-### Availability and Reliability {#availability-and-reliability}
+### Availability and Reliability
 
 #### Lectures
 

@@ -1,4 +1,4 @@
-### Scalability and Performance {#scalability-and-performance}
+### Scalability and Performance
 
 #### Lectures
 

@@ -1,5 +1,5 @@
 
-### Additional Resources {#additional-resources}
+### Additional Resources
 
 #### Recommended Readings
     

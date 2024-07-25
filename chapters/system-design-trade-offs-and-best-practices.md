@@ -1,4 +1,4 @@
-### System Design Trade-Offs and Best Practices {#system-design-trade-offs-and-best-practices}
+### System Design Trade-Offs and Best Practices
 
 #### Lectures
 

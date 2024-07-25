@@ -1,4 +1,4 @@
-### System Architecture Design {#system-architecture-design}
+### System Architecture Design
 
 #### Lectures
 
