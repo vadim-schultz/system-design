@@ -1,3 +1,7 @@
+[Previous](README.md) | [Table of contents](README.md) | [Next](chapters/introduction-to-system-design.md)
+
+---
+
 # System Design
 
 * [Introduction to System Design](chapters/introduction-to-system-design.md)
@@ -7,3 +11,6 @@
 * [Availability and Reliability](chapters/availability-and-reliability.md)
 * [System Design Trade-Offs and Best Practices](chapters/system-design-trade-offs-and-best-practices.md)
 * [Additional resources](chapters/additional-resources.md)
+
+---
+[Previous](README.md) | [Table of contents](README.md) | [Next](chapters/introduction-to-system-design.md)

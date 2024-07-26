@@ -1,9 +1,10 @@
-### Introduction to System Design
+[Previous](../README.md) | [Table of contents](../README.md) | [Next](system-requirements-and-analysis.md)
 
-#### Lectures
+---
 
-##### What is System Design?
-###### Definition and Importance of System Design
+# Introduction to System Design
+## What is System Design?
+### Definition and Importance of System Design
 
 System design is the process of defining the architecture, components, and interfaces of a system to meet specific requirements and constraints. It involves a deep understanding of the system's functional and non-functional requirements, as well as the trade-offs between different design options.
 
@@ -23,7 +24,7 @@ On the other hand, a poorly designed system can result in:
 *   Delayed or failed project delivery
 *   Loss of market share and revenue
 
-###### System Design Process and Its Phases
+### System Design Process and Its Phases
 
 The system design process typically involves the following phases:
 
@@ -36,8 +37,8 @@ The system design process typically involves the following phases:
 7.  **Testing and Validation**: Verify that the system design meets the requirements and works as expected.
 8.  **Iteration and Refining**: Refine the design based on feedback, testing results, and changing requirements.
 
-##### System Design Principles
-###### Separation of Concerns (SoC)
+## System Design Principles
+### Separation of Concerns (SoC)
 
 Separation of Concerns (SoC) is a fundamental principle of system design that suggests dividing a system into smaller, independent components, each responsible for a specific concern or functionality. This principle helps to:
 
@@ -52,7 +53,7 @@ SoC can be achieved through various techniques, such as:
 *   Layering: organizing the system into layers, each responsible for a specific concern
 *   Microservices: dividing the system into smaller, independent services that communicate with each other
 
-###### Abstraction and Encapsulation
+### Abstraction and Encapsulation
 
 Abstraction and encapsulation are closely related principles that help to simplify complex systems and improve their maintainability.
 
@@ -65,7 +66,7 @@ Abstraction and encapsulation are closely related principles that help to simpli
     *   Reduce coupling between components by minimizing dependencies
     *   Enhance security by limiting access to sensitive data
 
-###### Modularity and Re-usability
+### Modularity and Re-usability
 
 Modularity and re-usability are principles that aim to make systems more flexible and efficient.
 
@@ -78,7 +79,7 @@ Modularity and re-usability are principles that aim to make systems more flexibl
     *   Improve maintainability by making it easier to update or modify reusable components
     *   Enhance scalability by enabling the creation of new systems or features using existing components
 
-###### Scalability and Performance
+### Scalability and Performance
 
 Scalability and performance are critical principles in system design, as they directly impact the system's ability to handle increased load and user demand.
 
@@ -93,8 +94,5 @@ Scalability and performance are critical principles in system design, as they di
         
 These principles are essential for designing systems that are scalable, maintainable, and efficient. By applying these principles, system designers can create systems that meet the needs of users and stakeholders while minimizing costs and complexity.
 
-#### Assignments
-
-##### System Design Case Study
-###### Analyze a real-world system (e.g., Twitter, Netflix) and identify its design principles
-###### Present findings and discuss in class
+---
+[Previous](../README.md) | [Table of contents](../README.md) | [Next](system-requirements-and-analysis.md)
